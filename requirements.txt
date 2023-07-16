@@ -2,3 +2,5 @@ pandas
 numpy
 qgrid
 ipywidgets
+notebook
+ipykernel
